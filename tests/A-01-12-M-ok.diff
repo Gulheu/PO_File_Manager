@@ -1,0 +1,12 @@
+*** tests/A-01-12-M-ok.out	2022-11-01 18:06:50.000000000 +0000
+--- tests/A-01-12-M-ok.outhyp	2022-11-13 23:49:33.000000000 +0000
+***************
+*** 42,48 ****
+  6 - Mostrar saldo de cliente
+  0 - Sair
+  Escolha uma opção: Identificador do cliente: CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|4|0|0
+- O2I|969001
+  GESTÃO DE CLIENTES
+  1 - Visualizar cliente
+  2 - Visualizar todos os clientes
+--- 42,47 ----

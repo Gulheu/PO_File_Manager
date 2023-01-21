@@ -1,0 +1,19 @@
+*** tests/A-11-04-M-ok.out	2022-10-30 22:15:20.000000000 +0000
+--- tests/A-11-04-M-ok.outhyp	2022-11-02 19:42:09.000000000 +0000
+***************
+*** 23,29 ****
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Número do terminal: Mensagem de texto a enviar: O terminal de destino ('969006') está desligado.
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+--- 23,29 ----
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Mensagem de texto a enviar: Número do terminal: Enviar comunicação de texto: Operação inválida: O terminal '1' não existe.
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
